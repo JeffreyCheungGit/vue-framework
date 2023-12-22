@@ -1,0 +1,4 @@
+#nprogress .bar{
+	background-color: #6ec8ff;
+	z-index: 99999999;
+}
